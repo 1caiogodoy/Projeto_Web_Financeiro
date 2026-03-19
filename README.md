@@ -24,7 +24,6 @@ Projeto desenvolvido para gerenciamento de finanças pessoais, permitindo visual
 4. Os gráficos são gerados dinamicamente
 5. Os resultados aparecem na tela sem reload
 
-## ▶️ Documento de Relatório - PDF
 
 # Clone o repositório
 https://github.com/1caiogodoy/Projeto_Web_Financeiro
