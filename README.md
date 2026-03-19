@@ -24,7 +24,7 @@ Projeto desenvolvido para gerenciamento de finanças pessoais, permitindo visual
 4. Os gráficos são gerados dinamicamente
 5. Os resultados aparecem na tela sem reload
 
-## ▶️ Como rodar o projeto
+## ▶️ Documento de Relatório - PDF
 
 # Clone o repositório
 
