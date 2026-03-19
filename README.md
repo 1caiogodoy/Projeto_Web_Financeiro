@@ -1,5 +1,3 @@
-# 💰 Sistema de Controle Financeiro
-
 Projeto desenvolvido para gerenciamento de finanças pessoais, permitindo visualizar a organização dos gastos através de gráficos.
 
 ## 🚀 Funcionalidades
@@ -29,28 +27,7 @@ Projeto desenvolvido para gerenciamento de finanças pessoais, permitindo visual
 ## ▶️ Como rodar o projeto
 
 # Clone o repositório
-git clone https://github.com/seuuser/site-financeiro.git
 
-# Entre na pasta
-cd site-financeiro
-
-# Crie o ambiente virtual
-python -m venv venv
-
-# Ative o ambiente
-# Windows:
-venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
-
-# Instale as dependências
-pip install flask matplotlib
-
-# Execute o projeto
-python main.py
-
-# Acesse no navegador:
-http://127.0.0.1:5000
 
 ## 👨‍💻 Autores
 
